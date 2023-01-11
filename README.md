@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wwl0007
 - 👀 I’m interested in iOS App Development
-- 🌱 I’m currently learning graph algorithms
+- 🌱 I’m currently secure software process development
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me: wwl0007@auburn.edu
 
